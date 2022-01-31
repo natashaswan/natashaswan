@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natashaswan
-- 👀 I’m interested in Javascript coding back-end development in Node.js and front-end web-development in React JS.
-- 🌱 I’m currently learning React JS, Redux, Node JS, SQL and non-SQL databases.
+- 👀 I’m interested in Javascript coding back-end development in Node.js and front-end web-development in React.js.
+- 🌱 I’m currently learning React.js, Redux, Node JS, SQL and non-SQL databases, and taking CS50 course from Harvard. 
 - 💞️ I’m looking to collaborate on intresting and socially impactful projects.
 - 📫 How to reach me: email@   chircon@gmail.com
 
