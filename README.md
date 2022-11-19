@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natashaswan
-- 👀 I’m interested in Javascript coding back-end development in Node.js and front-end web-development in React.js.
-- 🌱 I’m currently learning React.js, Redux, Node JS, SQL and non-SQL databases, and taking CS50 course from Harvard. 
+- 👩‍💻 I use React.js, JavaScript, HTML 5, CSS 3 to translate mock-ups into a functioning web application with exceptional usability.
+- 🌱 I am taking CS50 course from Harvard. 
 - 💞️ I’m looking to collaborate on intresting and socially impactful projects.
 - 📫 How to reach me: email@   natashaswan.ca@gmail.com
 
