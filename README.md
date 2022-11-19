@@ -3,7 +3,7 @@
 - 🎓 I learned Human Computer Interaction and UX at one of the top universities.
 - 🫶🏼 I care about my users and always keep in mind a task that I help them accomplish.
 - 🌱 I am taking CS50 course from Harvard. 
-- 💞️ I’m looking to collaborate on intresting and socially impactful projects.
+- 💞️ I’m looking to collaborate on interesting and socially impactful projects.
 - 📫 How to reach me: email@   natashaswan.ca@gmail.com
 
 <!---
